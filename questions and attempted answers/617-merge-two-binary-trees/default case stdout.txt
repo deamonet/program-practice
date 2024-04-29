@@ -1,0 +1,33 @@
+original   node val 0
+original   address f140711852639856
+scieniro 4 node val 3
+node.left  address 140711852641776
+node.right address 140711852641872
+
+original   node val 0
+original   address f140711852641776
+scieniro 4 node val 4
+node.left  address 140711852641968
+node.right address 140711852642064
+
+original   node val 0
+original   address f140711852641968
+scieniro 3 node val 5
+
+original   node val 0
+original   address f140711852642064
+scieniro 2 node val 4
+
+original   node val 0
+original   address f140711852641872
+scieniro 4 node val 5
+node.left  address 140711852642160
+node.right address 140711852642256
+
+original   node val 0
+original   address f140711852642160
+scieniro 1 node val None
+
+original   node val 0
+original   address f140711852642256
+scieniro 2 node val 7
